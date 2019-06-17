@@ -11,8 +11,8 @@ div#wrapperHeader div#header {
 }
 
 div#wrapperHeader div#header img {
- width: 1439px;
- height:414px; /* the height of the logo image */
+ width:;
+ height:; /* the height of the logo image */
  margin:0 auto;
  
 /* Three image containers (use 25% for four, and 50% for two, etc) */
